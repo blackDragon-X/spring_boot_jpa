@@ -1,0 +1,2 @@
+insert into clientes (id, nombre, apellido, email, create_at) values (1, 'Ricardo', 'Cortés', 'ricardo@gmail.com', '2024-12-31');
+insert into clientes (id, nombre, apellido, email, create_at) values (2, 'Luz Mary', 'Matíz', 'luzmary@gmail.com', '2024-12-30');
